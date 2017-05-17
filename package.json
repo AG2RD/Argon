@@ -1,13 +1,13 @@
 {
-  "name": "generator-electron",
+  "name": "Argon",
   "version": "1.20.0",
-  "description": "Scaffold out an Electron app boilerplate",
+  "description": "Fork of sindresorhus/generator-electron - Scaffold out an Electron app boilerplate",
   "license": "MIT",
   "repository": "sindresorhus/generator-electron",
   "author": {
-    "name": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "sindresorhus.com"
+    "name": "Adrien Gérard",
+    "email": "none@gmail.com",
+    "url": "none.com"
   },
   "engines": {
     "node": ">=4"
